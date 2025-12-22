@@ -1,0 +1,8505 @@
+[
+  {
+    "chunk_id": "第一條     目的_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第一條     目的_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第一條     目的_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三條     適用範圍_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三條     適用範圍_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五條     其他_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五條     其他_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五條     其他_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六條     聘僱原則_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六條     聘僱原則_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六條     聘僱原則_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七條     聘僱限制_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七條     聘僱限制_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七條     聘僱限制_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七條     聘僱限制_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七條     聘僱限制_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七條     聘僱限制_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七條     聘僱限制_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七條     聘僱限制_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七條     聘僱限制_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七條     聘僱限制_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七條     聘僱限制_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七條     聘僱限制_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七條     聘僱限制_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八條     聘僱決行_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八條     聘僱決行_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八條     聘僱決行_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八條     聘僱決行_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八條     聘僱決行_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八條     聘僱決行_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八條     聘僱決行_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八條     聘僱決行_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九條     新人訓練_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九條     新人訓練_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十條     報到手續_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十條     報到手續_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十條     報到手續_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十條     報到手續_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十條     報到手續_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十條     報到手續_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十條     報到手續_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十一條    勞動契約_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十一條    勞動契約_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十一條    勞動契約_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十二條    新進試用_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十二條    新進試用_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十二條    新進試用_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十二條    新進試用_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十二條    新進試用_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十二條    新進試用_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十二條    新進試用_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十二條    新進試用_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十五條    工作年資計算_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十五條    工作年資計算_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十五條    工作年資計算_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十五條    工作年資計算_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十五條    工作年資計算_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十五條    工作年資計算_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十五條    工作年資計算_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十五條    工作年資計算_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十六條    (刪除)_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十七條    (刪除)_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p17",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p18",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p19",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p20",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p21",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p22",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p23",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p24",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p25",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p26",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p27",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p28",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p29",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p30",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p31",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p32",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p33",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p34",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p35",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p36",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p37",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p38",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p39",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p40",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p41",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p42",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p43",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p44",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p45",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p46",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p47",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p48",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p49",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p50",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p51",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p52",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p53",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十八條    行為準則_p54",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十九條    工作時間_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十九條    工作時間_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十九條    工作時間_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十九條    工作時間_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十九條    工作時間_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第十九條    工作時間_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十條    調整工時_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十條    調整工時_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十條    調整工時_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十條    調整工時_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十一條     出勤管理_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十一條     出勤管理_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十一條     出勤管理_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十一條     出勤管理_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十一條     出勤管理_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十一條     出勤管理_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十一條     出勤管理_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十一條     出勤管理_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十一條     出勤管理_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十一條     出勤管理_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十一條     出勤管理_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十一條     出勤管理_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十二條     曠職_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十二條     曠職_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十二條     曠職_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十二條     曠職_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十二條     曠職_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十二條     曠職_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十二條     曠職_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十二條     曠職_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十二條     曠職_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十二條     曠職_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十二條     曠職_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十三條     加班_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十三條     加班_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十三條     加班_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十三條     加班_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十三條     加班_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十三條     加班_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十三條     加班_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十三條     加班_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十三條     加班_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十四條     出差_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十四條     出差_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十四條     出差_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十四條     出差_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十四條     出差_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十四條     出差_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十四條     出差_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十四條     出差_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十四條     出差_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p17",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p18",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十五條     培訓_p19",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p17",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p18",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p19",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p20",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p21",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p22",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p23",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p24",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p25",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p26",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p27",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p28",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p29",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p30",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p31",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p32",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p33",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p34",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p35",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p36",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p37",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p38",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p39",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p40",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p41",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p42",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p43",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p44",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p45",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p46",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p47",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p48",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p49",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p50",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p51",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p52",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p53",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p54",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p55",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p56",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p57",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p58",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p59",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p60",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p61",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p62",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p63",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p64",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p65",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p66",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p67",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p68",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p69",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p70",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p71",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p72",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p73",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p74",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p75",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p76",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p77",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p78",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p79",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p80",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p81",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p82",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p83",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p84",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p85",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p86",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p87",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p88",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p89",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p90",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p91",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p92",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p93",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p94",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p95",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p96",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p97",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p98",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p99",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p100",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p101",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p102",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p103",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p104",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p105",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p106",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p107",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十六條     給假規定_p108",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p17",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p18",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p19",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p20",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p21",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p22",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p23",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p24",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p25",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p26",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十七條     請假手續_p27",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十八條     薪資議定_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十八條     薪資議定_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十九條     薪資發放_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十九條     薪資發放_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第二十九條     薪資發放_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十條      薪資調整_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十條      薪資調整_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十一條     職代津貼_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十一條     職代津貼_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p17",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p18",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p19",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p20",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p21",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p22",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p23",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十二條     加班費_p24",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十三條     考核方法_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十三條     考核方法_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十三條     考核方法_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十三條     考核方法_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十三條     考核方法_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十三條     考核方法_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十三條     考核方法_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十三條     考核方法_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十四條     考核對象_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十五條     考核獎金發放_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十六條     考核原則_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十七條     考核保密_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十七條     考核保密_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p17",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p18",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p19",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p20",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p21",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p22",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p23",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p24",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p25",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p26",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十八條     獎懲項目與原則_p27",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十九條     嘉獎_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十九條     嘉獎_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十九條     嘉獎_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十九條     嘉獎_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十九條     嘉獎_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十九條     嘉獎_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十九條     嘉獎_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十九條     嘉獎_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十九條     嘉獎_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第三十九條     嘉獎_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十條      小功_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十一條     大功_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十二條     調升職級_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十二條     調升職級_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十二條     調升職級_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十二條     調升職級_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十三條     其他_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十三條     其他_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十三條     其他_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十四條     賠償_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十四條     賠償_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十四條     賠償_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十四條     賠償_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十四條     賠償_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十五條     口頭警告_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十五條     口頭警告_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十五條     口頭警告_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十五條     口頭警告_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十五條     口頭警告_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十五條     口頭警告_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p17",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p18",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十六條     申誡_p19",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十七條     小過_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p17",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第四十八條     大過_p18",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十條      侵權責任_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十條      侵權責任_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十條      侵權責任_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十一條     個資保護_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十一條     個資保護_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十一條     個資保護_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十一條     個資保護_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十一條     個資保護_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p17",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p18",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p19",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p20",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p21",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p22",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p23",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p24",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p25",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p26",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p27",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p28",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p29",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p30",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p31",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p32",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p33",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p34",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p35",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p36",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p37",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p38",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p39",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十二條     調遷_p40",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十三條     離職預告_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十三條     離職預告_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十四條     離職手續_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十四條     離職手續_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十四條     離職手續_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十四條     離職手續_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十四條     離職手續_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十五條     資遣_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十五條     資遣_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十五條     資遣_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十五條     資遣_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十五條     資遣_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十五條     資遣_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十五條     資遣_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十五條     資遣_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十五條     資遣_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十五條     資遣_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十六條     資遣預告_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十六條     資遣預告_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十六條     資遣預告_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十六條     資遣預告_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十六條     資遣預告_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十六條     資遣預告_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十七條     發放資遣費_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十七條     發放資遣費_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十七條     發放資遣費_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十七條     發放資遣費_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十七條     發放資遣費_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十七條     發放資遣費_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十七條     發放資遣費_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十七條     發放資遣費_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十七條     發放資遣費_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十七條     發放資遣費_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十七條     發放資遣費_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p17",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p18",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p19",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p20",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p21",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p22",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p23",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p24",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p25",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p26",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p27",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p28",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p29",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p30",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p31",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p32",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十八條     解僱_p33",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十九條     解僱簽核_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第五十九條     解僱簽核_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十一條     服務證明_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十二條     留職停薪_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十二條     留職停薪_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十二條     留職停薪_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十二條     留職停薪_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十二條     留職停薪_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十二條     留職停薪_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十二條     留職停薪_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十二條     留職停薪_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十二條     留職停薪_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十二條     留職停薪_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十二條     留職停薪_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十三條     留職停薪作業規定_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十四條     強制退休_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十四條     強制退休_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十四條     強制退休_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十五條     自願退休_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十五條     自願退休_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十五條     自願退休_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十五條     自願退休_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十五條     自願退休_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十五條     自願退休_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十五條     自願退休_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十五條     自願退休_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十五條     自願退休_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十五條     自願退休_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十五條     自願退休_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十六條     退休金給付標準_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十七條     年資採計方法_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十七條     年資採計方法_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p17",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p18",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p19",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p20",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p21",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p22",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p23",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p24",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十八條     職業災害補償_p25",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十九條     補償抵充_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第六十九條     補償抵充_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十條      補償權請求時效_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十條      補償權請求時效_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十條      補償權請求時效_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十條      補償權請求時效_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十條      補償權請求時效_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十條      補償權請求時效_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十條      補償權請求時效_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十條      補償權請求時效_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十條      補償權請求時效_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十一條     抵充_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十一條     抵充_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十一條     抵充_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十三條     福利及撫卹_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十三條     福利及撫卹_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十三條     福利及撫卹_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十三條     福利及撫卹_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十三條     福利及撫卹_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十三條     福利及撫卹_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十三條     福利及撫卹_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十三條     福利及撫卹_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十三條     福利及撫卹_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十三條     福利及撫卹_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十三條     福利及撫卹_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十三條     福利及撫卹_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十四條     安全衛生管理_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十四條     安全衛生管理_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十四條     安全衛生管理_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十四條     安全衛生管理_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十四條     安全衛生管理_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十四條     安全衛生管理_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十四條     安全衛生管理_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p5",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p6",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p7",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p8",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p9",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p10",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p11",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p12",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p13",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p14",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p15",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p16",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p17",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p18",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p19",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十五條     安全衛生及災害預防處理_p20",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十六條     申訴程序_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十六條     申訴程序_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十六條     申訴程序_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十六條     申訴程序_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十七條     申訴限制_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十七條     申訴限制_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十九條     申訴決議_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十九條     申訴決議_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第七十九條     申訴決議_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八十條      申訴保密_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八十條      申訴保密_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八十一條     申訴依據_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八十一條     申訴依據_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八十一條     申訴依據_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八十一條     申訴依據_p4",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第八十七條     (刪除)_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十條      庇護性就業者薪資_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十一條     庇護性就業者福利_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十一條     庇護性就業者福利_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十二條     庇護性就業者終止勞動契約_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十二條     庇護性就業者終止勞動契約_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十二條     庇護性就業者終止勞動契約_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十三條     訂定修正_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十三條     訂定修正_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十三條     訂定修正_p3",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十四條     作業細則_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十四條     作業細則_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十五條     公告施行_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十五條     公告施行_p2",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  },
+  {
+    "chunk_id": "第九十七條     (刪除)_p1",
+    "status": "pending",
+    "reason": "not validated yet",
+    "data": {
+      "entities": [],
+      "relations": [],
+      "constraints": [],
+      "exceptions": []
+    }
+  }
+]
