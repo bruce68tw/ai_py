@@ -79,13 +79,18 @@ L2ItemGetRe = re.compile(L2ItemPtnGet)
 L2ItemChkRe = re.compile(L2ItemPtnChk)
 
 # instance variables
+_l0Article0 = ""
+_l0Article = ""
+_l1Item = {}
+_l2Items = []
 _isL2 = False
-_l2Texts = []
+#_results = []
 
 def resetL2():
-    if _isL2:
-        _l2Texts = []
-
+    if not _isL2:
+        return
+    
+    _l2Items = []
     _isL2 = False
 
 def extractPage(paragraph):
@@ -151,6 +156,22 @@ def linesToBody(lines):
     # 每個 paragraph 用單一換行分隔
     return "\n".join(paragraphs)
 
+# add row to results[]
+def addResult(results):
+    if not _l1Item:
+        return
+    
+    results.append(_l1Item)
+    _l1Item = {}
+
+    if _isL2:
+        #append l2 items
+        for item in _l2Items:
+            results.append(item)        
+        #reset
+        resetL2()
+
+
 def wordToJson(wordPath, outputPath):
     """
     將單一 .docx 轉成 JSON 並寫入 output_path。
@@ -183,8 +204,9 @@ def wordToJson(wordPath, outputPath):
     # loop 讀取 word 檔
     for para in doc.paragraphs:
         paraText = para.text.strip()
+
+        # 空段落跳過
         if not paraText:
-            # 空段落跳過
             continue
 
         # ??若與上一段完全相同，視為重複段落跳過（可避免像範例中出現的重複行）
@@ -196,28 +218,35 @@ def wordToJson(wordPath, outputPath):
         # === 第0階 title ===
         itemRe = L0TitleGetRe.match(paraText)
         if itemRe:
-            resetL2()
-            itemRe = itemRe.group(2).strip()
-            # 章若標註為 "(刪除)" 則視為無章標題
-            nowL0Title = None if itemRe == Deleted else itemRe
-            # 新章開始時重置下層狀態
-            nowL1TitleRe = None
-            nowL2TitleRe = None
-            nowItem = None
-            prevText = paraText
+            #handle previous
+            addResult(results)
+
+            #skip deletes
+            text = itemRe.group(2).strip()
+            if text == Deleted:
+                continue
+
+            #handle this
+            _l0Article = itemRe.group(2).strip()
+            _l0Article0 = f"{_l0Article} {itemRe.group(1).strip()}"
             continue
 
         # === 第1階 title ===
         itemRe = L1TitleGetRe.match(paraText)
         if itemRe:
-            resetL2()
+            #handle previous
+            addResult(results)
+
+            #skip deletes
             text = itemRe.group(2).strip()
-            # 條被標註為刪除則忽略該條及其下層
             if text == Deleted:
-                nowL1TitleRe = None
-                nowL2TitleRe = None
-                nowItem = None
                 continue
+
+            #handle this
+            article = itemRe.group(2).strip()
+            article0 = f"{article} {itemRe.group(1).strip()}"
+            _l1Item = articleRow(article0, article, extractPage(para), [])
+            continue
 
             # debug
             #if title == "聘僱限制":
