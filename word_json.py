@@ -1,4 +1,3 @@
-# filepath: d:\_project\ai_py\word_json.py
 """
 pip install python-docx
 用途：將 .docx（以法規或工作規則等格式為主）解析成標準化 JSON。
@@ -40,6 +39,13 @@ L0Tail = '章'
 L1Tail = '條'
 L2Tail = '次標'
 
+CN_NUM = '[一二三四五六七八九十]+'
+#todo: word結構層級以參數傳入
+def getRe(reg: str):
+    return re.compile(
+        rf'^(第\s*({CN_NUM})\s*{reg})\s*(.*)'
+    )
+
 # 正則
 # r'...' 裡面的 \ 不會被 Python 當跳脫字元
 # ^ 行首錨點, 強制從一行最前面開始比對
@@ -52,8 +58,8 @@ L2Tail = '次標'
 L0TitleGetRe = re.compile(r'^(第\s*[一二三四五六七八九十]+\s*章)\s*(.*)')   #group(1)傳回第x章
 L1TitleGetRe = re.compile(r'^(第\s*[一二三四五六七八九十]+\s*條)\s*(.*)')   #第x條
 L1ItemGetRe = re.compile(r'^([一二三四五六七八九十]+)[、\.]\s*(.*)')        #ex: 一、
-#L1ItemChkRe = re.compile(r'^[一二三四五六七八九十]+[、\.]\s*')              #ex: 一、
 L2ItemChkRe = re.compile(r'^\([一二三四五六七八九十]+\)\s*')                #ex: (一)
+#L1ItemChkRe = re.compile(r'^[一二三四五六七八九十]+[、\.]\s*')              #ex: 一、
 
 # instance variables
 _l0Article0 = ""
@@ -153,7 +159,7 @@ def wordToJson(wordPath, outputPath):
     doc = Document(wordPath)
     results = []  # 最終輸出之 list
 
-    # loop 讀取 word 檔
+    #loop 讀取 word 檔
     for para in doc.paragraphs:
         paraText = para.text.strip()
 
@@ -251,7 +257,6 @@ def wordToJson(wordPath, outputPath):
         #如果是L2, 則加入L2 body(含換行符號)
         if _isL2:
             addL2Body(True, paraText)
-
     #exit for loop
 
     #寫入最後一筆
