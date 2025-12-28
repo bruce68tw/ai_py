@@ -21,6 +21,7 @@ import os
 import re
 import json
 import pdb
+import sys
 from docx import Document
 #import logging
 
@@ -32,6 +33,14 @@ Article0 = "article0"   #欄位
 Article = "article"     #欄位
 Body = "body"           #欄位
 Carrier = "\n"  #換行符號
+
+# 傳入參數: word檔名(不含副檔名)
+WordFname = ""
+
+# 正則陣列, 內容由傳入參數決定
+Regs = [];
+
+L0Tail = '章'
 
 # === 正則定義 ===
 # 階層名稱常數
@@ -268,9 +277,44 @@ def wordToJson(wordPath, outputPath):
 
 
 # === 主程式 ===
+# 傳入3個參數: python檔名, word檔名(不含副檔名), 層級陣列
+# 層級陣列的中間參數可為以下內容:
+#   C1:中文數字, ex: 一二三四五六七八九十
+#   N1:數字(半形), ex: 12345678910
+#   N2:數字(全形), ex: １２３４５６７８９１０
 if __name__ == "__main__":
+    # check 參數數量必須為3
+    if len(sys.argv) != 3:
+        print("用法: python xxx.py word檔名(不含副檔名) 層級陣列")
+        sys.exit(1)
+
+    # check 參數2: 層級陣列必須是3的倍數
+    regArgs = sys.argv[2]
+    if len(regArgs) % 3 != 0:
+        print("參數3(層級陣列)必須是3的倍數!!")
+        sys.exit(1)
+    
+    # set instance variables
+    WordFname = sys.argv[1]
+    
+    # set Regs array
+    for i in range(0, len(regArgs), 3):
+        left, mid, right = regArgs[i:i+3]
+        regex = '^'
+        if left:
+            regex += left
+        if mid:
+            regex += mid
+        if right:
+            regex += right
+
+        # 擷取結構後的內容
+        regex += r'\s*(.*)$'
+
+        patterns.append(re.compile(regex))
+
     # 範例執行：開發時可改為從命令列參數讀入路徑
-    inputPath = "input/工作規則-easy.docx"
+    inputPath = f"input/{WordFname}.docx"
     outputDir = "output"
 
     if not os.path.isfile(inputPath):
